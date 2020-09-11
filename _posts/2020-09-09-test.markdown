@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tableau"
+date:   2020-09-09 12:41:13 +1000
+---
+
+This post will be consistently updated with new tableau visualizations I output onto Tableau public.
+
+
+
+| Title              | Data Source | Viz Link | 
+|----|-----|----|
+|   test  |test      |  test    |  
