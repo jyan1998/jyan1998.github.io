@@ -8,6 +8,7 @@ This post will be consistently updated with new tableau visualizations I output 
 
 
 
-| Title              | Data Source | Viz Link | 
-|----|-----|----|
-|   test  |test      |  test    |  
+| Title              |  Viz Link | 
+|----|----|
+|   Makeover Monday W36  |  [7 Sep 2020])(https://public.tableau.com/profile/jack.yan5100#!/vizhome/WIP_15947902076090/Dashboard1)   |  
+|   AirBNB Pricing in Melbourne  |  [23 Jul 2020])(https://public.tableau.com/profile/jack.yan5100#!/vizhome/WIP_15947902076090/Dashboard1)   |  

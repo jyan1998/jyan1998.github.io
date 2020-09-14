@@ -7,16 +7,16 @@ permalink: /Notes/
 
 This page holds notes of research and study I've done, sorted into tables.
 
-Books
+## Books
 
 | Title              | Author | Notes | 
 |----|-----|----|
-|Apprenticeship Patterns      |David H. & Adewale O.      |  test    |      
+|Apprenticeship Patterns      |David H. & Adewale O.      |  [14 Sep 2020](https://jyan1998.github.io/Notes/ApprenticeshipPatterns/)   |      
     
 
-Tableau
+## Tableau
 
 | Topic | Notes | 
 |----|----|
-|Storytelling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |11 Sep 2020| 
+|Storytelling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |[11 Sep 2020](https://jyan1998.github.io/Notes/Storytelling/)| 
 
