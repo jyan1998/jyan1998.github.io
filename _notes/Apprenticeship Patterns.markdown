@@ -11,6 +11,8 @@ Apprenticeship Patterns is a book written for software developers to grow profes
 I am primarily looking to extract learning techniques from this book.
 
 
+&nbsp;
+
 
 ## Key Takeaways
 * Confront your ignorance by exposing it to the world and ensuring you take actions to overcome it. Tackle the issue one step at a time in a way effective for yourself
@@ -31,6 +33,8 @@ I am primarily looking to extract learning techniques from this book.
 
 * Record what you learn, so you have a backup in case you forget the details.
 
+&nbsp;
+
 
 ## Summary
 
@@ -38,7 +42,13 @@ An additional overarching concept that this book also attempts to teach is the i
 
 By building a habit of these learning techniques is when we will experience a significant boost in effective learning, and this is my first step towards this - by recording what I learn.
 
+&nbsp;
+
+
 ---
+
+&nbsp;
+
 
 ## Extracts from the book.
 Reworded and simplified for my reading.
@@ -51,6 +61,7 @@ Confronting your ignorance is the first step to overcoming it. So when you find 
 
 Of course, while being willing to expose your ignorance, it is important to remember to confront it. Those who merely expose become overly dependent on others. 
 
+&nbsp;
 
 
 ### Deep End
@@ -69,6 +80,8 @@ While receiving advice or feedback, avoid defending your current level of knowle
 
 Despite all this, you will still experience failures. Seek the way or behaviors which lead to your failures and fix those worth fixing. The goal isn't to become perfect, but to improve. Accept that you may not be good at everything and cut your losses when there is a disproportionate investment of time and effort.
 
+&nbsp;
+
 
 
 ### The Journey
@@ -83,6 +96,8 @@ A way to help stay on the journey is to write 15 things that motivate you, wait 
 
 Along this journey, you may not have a mentor. Find yourself people on a similar road as you and use this opportunity to learn from each other but be aware of group think. You can identify a communities health by the way they react to new ideas, do they test it or do they straight reject it. 
 
+&nbsp;
+
 
 
 ### Learning Bandwidth
@@ -90,6 +105,8 @@ Along this journey, you may not have a mentor. Find yourself people on a similar
 There are times which you will be drinking information steadily through a straw, but there are seasons in apprenticeship when one must drink from a fire hose of information.
 
 Expand the sources of information you can obtain from, whether that be books, communities, projects, research. Also make sure to return to the craft, rather than getting lost in the sea of information, and although this pattern will accelerate your learning, it will slow down your development if applied for long periods of time.
+
+&nbsp;
 
 
 
@@ -105,6 +122,8 @@ If we are not blessed with another craftsman or master in our life for feedback,
 Overtime with a lot of exposure to good, bad and indifferent code we can start to learn subtleties and develop a toolbox of tricks.
 Practice needs to be relaxed, stress free and playful so we can experiment. 
 
+&nbsp;
+
 
 
 ### Breakable Toys
@@ -112,6 +131,8 @@ Practice needs to be relaxed, stress free and playful so we can experiment.
 Experience is built upon failure if not more than success. But we are often in an environment which does not allow for failure.
 
 Thus we need to seek out bold tasks, to give ourselves opportunity to try and fail. Build your favorite thing, regardless of what it is as long as its fun to you, after all, if its a chore it will gather dust after the initial burst of enthusiasm.
+
+&nbsp;
 
 
 
@@ -125,6 +146,8 @@ The goal here is to extract the maximum amount of educational value by breaking 
 
 A way this can be actionable is to write down the things you do and the connections between them, this is known as a Personal Practices Map.
 
+&nbsp;
+
 
 
 ### Record what you learn
@@ -132,6 +155,8 @@ A way this can be actionable is to write down the things you do and the connecti
 It will become a vital resource for you to draw upon, and can act as a reminder when you forget. 
 
 It will also help you meet like minded individuals whom may be able to help you in your journey.
+
+&nbsp;
 
 ---
 
