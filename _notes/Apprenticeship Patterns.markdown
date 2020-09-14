@@ -14,15 +14,22 @@ I am primarily looking to extract learning techniques from this book.
 
 ## Key Takeaways
 * Confront your ignorance by exposing it to the world and ensuring you take actions to overcome it. Tackle the issue one step at a time in a way effective for yourself
-* Find individuals similar to yourself, and learn from each other. They can be a mentor, or fellow apprentice.
-* Self feedback is based on your past abilities, while others feedback is objective. Thus seek feedback from others.
-* Turn feedback into actionable information, and act upon them.
-* Be careful not to practice bad habits.
-* Practice needs to be playful and stress free.
-* xperience and skill is built upon failure more than success. However, we are often not in situations where we are allowed to fail, so seek opportunities like self projects which give us freedom to fail. Remember to do what interests you so you can stay motivated.
-* Reflect as you work. Break down your actions and the connections between them, and the pleasant and unpleasant. Then find ways to fix or improve the negatives.
-* Record what you learn, so you have a backup in case you forget the details.
 
+* Find individuals similar to yourself, and learn from each other. They can be a mentor, or fellow apprentice.
+
+* Self feedback is based on your past abilities, while others feedback is objective. Thus seek feedback from others.
+
+* Turn feedback into actionable information, and act upon them.
+
+* Be careful not to practice bad habits.
+
+* Practice needs to be playful and stress free.
+
+* xperience and skill is built upon failure more than success. However, we are often not in situations where we are allowed to fail, so seek opportunities like self projects which give us freedom to fail. Remember to do what interests you so you can stay motivated.
+
+* Reflect as you work. Break down your actions and the connections between them, and the pleasant and unpleasant. Then find ways to fix or improve the negatives.
+
+* Record what you learn, so you have a backup in case you forget the details.
 
 
 ## Summary
