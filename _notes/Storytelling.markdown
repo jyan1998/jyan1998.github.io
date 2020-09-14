@@ -34,11 +34,17 @@ There are different types of data stories, which are clearly explained on [Table
 	- Why is this item different? What implications are there?
 
 Additionally, like the name suggests, storytelling implies a flow in which a story is told. We can expect something like:
-1. The Plot. (Overarching point of the analysis)
-2. Rising action (Plot buildup - this can mean diving deeper into the cause of the main point)
-3. Climax (Identifying the cause)
-4. Falling action (Data on how we can learn/improve from the climax)
-5. Ending (Conclusion, what we learnt and what actions we can take from the insights)
+1. The Plot. 
+	- Overarching point of the analysis.
+2. Rising action 
+	- Plot buildup, this can mean diving deeper into the cause of the main point.
+3. Climax 
+	- Identifying the cause.
+4. Falling action 
+	- Data on how we can learn/improve from the climax.
+5. Ending 
+	-Conclusion, what we learnt and what actions we can take from the insights.
+	
 [Credits](https://www.tableau.com/data-storytelling#reveal)
 
 Of course, this is merely one recipe for storytelling and by no means should one restrict themselves to only this method.
