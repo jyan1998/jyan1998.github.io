@@ -21,6 +21,7 @@ This page holds notes of research and study I've done, sorted into tables.
 |Storytelling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |[11 Sep 2020](https://jyan1998.github.io/Notes/Storytelling/) | 
 
 ## Other
+
 | Topic | Notes | 
 |----|----|
 |Motivation, Willpower & Goals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |[28 Sep 2020](https://jyan1998.github.io/Notes/MW&G/) | 
