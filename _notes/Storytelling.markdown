@@ -43,7 +43,7 @@ Additionally, like the name suggests, storytelling implies a flow in which a sto
 4. Falling action 
 	- Data on how we can learn/improve from the climax.
 5. Ending 
-	-Conclusion, what we learnt and what actions we can take from the insights.
+	- Conclusion, what we learnt and what actions we can take from the insights.
 	
 [Credits](https://www.tableau.com/data-storytelling#reveal)
 
