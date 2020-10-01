@@ -11,4 +11,12 @@ This post will be consistently updated with new tableau visualizations I output 
 | Title              |  Viz Link | 
 |----|----|
 |   Makeover Monday W36  |  [7 Sep 2020](https://public.tableau.com/profile/jack.yan5100#!/vizhome/MakeoverMondayW36_15994586197840/Dashboard1)   |  
+|	UFC Fighters	|	[24 Aug 2020](https://public.tableau.com/profile/jack.yan5100#!/vizhome/WIPzzz/Dashboard1) |
 |   AirBNB Pricing in Melbourne  |  [23 Jul 2020](https://public.tableau.com/profile/jack.yan5100#!/vizhome/WIP_15947902076090/Dashboard1)  |  
+
+My first personal viz showed AirBNB prices around Melbourne. I was told it had a clean design, but could use more interactivity. I tried to apply this to my second viz, UFC Fighters, 
+and people felt as though it has a nice level of interactivity. Something that I definitly could improve on regarding the UFC Viz is the table of information, I should change its 
+presentation through spacing, format and size. Even perhaps choose to implement filters instead. 
+
+While showing my dashboard to others, I was given the advice to make the presentation of my dashboard more interesting in the form of story telling. Currently, I am working on this, and my 
+learnings are visible on the 'Notes' section of my portfolio, located on the top right of the screen.
